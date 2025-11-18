@@ -1,0 +1,1 @@
+delivery_method,language,notice_type,notification_level,patron_barcode,patron_title,name_first,name_last,phone_number,email_address,site_code,site_name,item_barcode,due_date,browse_title,reporting_org_id,language_id,notification_type_id,delivery_option_id,patron_id,item_record_id,sys_hold_request_id,pickup_area_description,txn_id,account_balance
